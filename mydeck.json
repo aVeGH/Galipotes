@@ -1,1 +1,339 @@
-{"version":"0.0.5","pageFormat":"A4","rows":3,"cols":3,"cardWidth":2.5,"cardHeight":3.5,"hMargin":0,"vMargin":0,"imageWidth":2.75,"imageHeight":3.75,"imageHShift":-0.125,"imageVShift":-0.125,"decks":[{"name":"Départ","commonCardback":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","cards":[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/1.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"yeux"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/2.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"dents"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/3.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"griffes"}]},{"name":"Légende","commonCardback":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","cards":[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_yeux.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"yeux"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_dents.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"dents"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_griffes.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"griffes"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_jaune.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"jaune"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_rouge.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"rouge"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_vert.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"vert"}]},{"name":"Yeux","commonCardback":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png","cards":[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}]},{"name":"Dents","commonCardback":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png","cards":[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}]},{"name":"Griffes","commonCardback":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png","cards":[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}]}],"pages":[[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/1.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"yeux"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/2.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"dents"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/3.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"griffes"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_yeux.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"yeux"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_dents.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"dents"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_griffes.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"griffes"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_jaune.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"jaune"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_rouge.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"rouge"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_vert.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png","name":"vert"}],[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}],[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}],[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}],[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}],[{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_r.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_j.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"},{"imageUrl":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_v.png","count":1,"cardBack":"https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"}]],"showBoundaries":false,"showImageurl":false,"backFormat":"standard","cropmarks":{"showOnFront":true,"thickness":0.01,"showOnBack":true}}
+{
+  "version": "0.0.5",
+  "pageFormat": "A4",
+  "rows": 3,
+  "cols": 3,
+  "cardWidth": 2.5,
+  "cardHeight": 3.5,
+  "hMargin": 0.005,
+  "vMargin": 0.005,
+  "imageWidth": 2.75,
+  "imageHeight": 3.75,
+  "imageHShift": -0.125,
+  "imageVShift": -0.125,
+  "decks": [
+    {
+      "name": "Départ",
+      "commonCardback": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+      "cards": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/1.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "yeux"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/2.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "dents"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/3.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "griffes"
+        }
+      ]
+    },
+    {
+      "name": "Légende",
+      "commonCardback": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+      "cards": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_yeux.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "yeux"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_dents.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "dents"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_griffes.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "griffes"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_jaune.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "jaune"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_rouge.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "rouge"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/legende_vert.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_depart.png",
+          "name": "vert"
+        }
+      ]
+    },
+    {
+      "name": "Yeux",
+      "commonCardback": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png",
+      "cards": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux__r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_v_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_r_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/yeux_j_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        }
+      ]
+    },
+    {
+      "name": "Dents",
+      "commonCardback": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png",
+      "cards": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents__r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_v_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_r_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dents_j_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        }
+      ]
+    },
+    {
+      "name": "Griffes",
+      "commonCardback": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png",
+      "cards": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes__r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_v_r.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_r_j.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/griffes_j_v.png",
+          "count": 1,
+          "cardBack": "https://raw.githubusercontent.com/aVeGH/Galipotes/master/dos_pose.png"
+        }
+      ]
+    }
+  ],
+  "showBoundaries": false,
+  "showImageurl": false,
+  "backFormat": "standard",
+  "cropmarks": {
+    "showOnFront": true,
+    "thickness": 0.01,
+    "showOnBack": true,
+    "margin": 0.01
+  },
+  "metaData": {
+    "gamename": "Galipotes",
+    "author": "Xavier Lardy",
+    "description": "<p>\nEnglish ~ <br>\nGalipotes is a card game in which the players have witnessed the apparition of the legendary Galipote, hidden behind a tree in the middle of the town.\nThe goal of the game is to score the most points by collecting the most Galipote cards, whose values range from 1 to 3 points.\nGalipotes can be played from 3 to 5 players, starting from 8 years old. The game is played over several round, each one lasting about 5 minutes.<br>\n<a href=\"http://bit.ly/244iA8g\">Galipotes rules are available at itch.io</a>\n</p>\n<hr>\n<p>\nFrench ~ <br>\nGalipotes est un jeu de cartes dans lequel les joueurs ont été témoins de l'apparition de la légendaire Galipote, cachée derrière un arbre au milieu du village !\nLe but du jeu est de marquer le plus de points en collectant le plus de cartes Galipote, dont la valeur varie de 1 à 3 points.\nGalipotes peut se jouer de 3 à 5 joueurs, à partir de 8 ans. Le jeu se déroule en plusieurs manches, chacune durant environ 5 minutes.</br>\n<a href=\"http://bit.ly/244iA8g\">Les règles de Galipotes sont disponibles sur itch.io</a>\n</p>\n<hr>\n<p>\n<a href=\"http:/www.xavierlardy.fr\">Xavier Lardy website</a>\n</p>"
+  }
+}
